@@ -1,0 +1,6 @@
+echo "# GettingandCleaningDataProject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/stacey131/GettingandCleaningDataProject.git
+git push -u origin master
